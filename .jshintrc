@@ -3,7 +3,7 @@
     "document": true,
     "window": true,
     "-Promise": true,
-    "BunchyEmberCLIENV": true
+    "BunchyEmberCliENV": true
   },
   "browser" : true,
   "boss" : true,
